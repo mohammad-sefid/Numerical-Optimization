@@ -1,4 +1,4 @@
-function CA5_BFGS_40206864()
+function BFGS()
     clc; clear all; close all;
 
     % Define the objective function
